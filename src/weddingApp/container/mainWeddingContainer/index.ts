@@ -1,0 +1,1 @@
+export { MainWeddingContainer } from './MainWeddingContainer'

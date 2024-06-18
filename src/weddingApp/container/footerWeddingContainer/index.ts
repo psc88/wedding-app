@@ -1,0 +1,1 @@
+export { FooterWeddingContainer } from './FooterWeddingContainer'
